@@ -64,8 +64,8 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 
 
 <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=airondev&theme=react-dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@incrisz"/>
+<!--    <img src="https://activity-graph.herokuapp.com/graph?username=airondev&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@airondev"/> -->
   <a href="mailto:increasegodwin1@gmail.com" >
     <img align="center" alt="incrisz | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
