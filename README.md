@@ -70,7 +70,7 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
     <img align="center" alt="incrisz | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/incrisz-6735711b6" target="_blank">
+  <a href="linkedin.com/in/increase-godwin-506473214/" target="_blank">
     <img align="center" alt="Incrisz | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
@@ -81,5 +81,5 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 
 <div align="center">
   Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2022 Incrisz
+  &copy; 2024 Incrisz
 </div>
