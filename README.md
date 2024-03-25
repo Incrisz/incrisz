@@ -1,6 +1,6 @@
 
 
-# Godwin Increase 👋
+# Godwin Incrisz 👋
 ### Software Engineer.
 ---
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/incrisz?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/incrisz?style=social"> &nbsp;&nbsp; ![counter](https://en45p9rvivielwz.m.pipedream.net)
