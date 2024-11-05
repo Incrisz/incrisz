@@ -57,11 +57,11 @@ My user-centered approach to development ensures that all technical decisions ar
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> Let's Connect!
 
 <p align="center">
-  <a href="mailto:increasegodwin1@gmail.com" >
+  <a href="mailto:godwinincrisz@gmail.com" >
     <img align="center" alt="Incrisz | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://linkedin.com/in/increase-godwin-506473214/" target="_blank">
+  <a href="https://www.linkedin.com/in/godwin-incrisz-506473214/" target="_blank">
     <img align="center" alt="Incrisz | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
