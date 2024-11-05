@@ -1,4 +1,3 @@
-
 ---
 
 # Godwin Incrisz 👋  
@@ -20,6 +19,9 @@ My user-centered approach to development ensures that all technical decisions ar
 - **Mobile Development**: Flutter (Dart), React Native.
 - **Data Storage & Processing**: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
 - **Architectural Knowledge**: Microservices, Event-Driven Architecture, MVC.
+- **CI/CD & Automation Tools**: GitHub Actions, GitLab CI, Jenkins, Ansible, Terraform.
+- **Containerization & Orchestration**: Docker, Kubernetes.
+- **Monitoring & Visualization**: Prometheus, Grafana.
 - **Development Methodologies**: Experienced in Agile, Scrum, Kanban, and Sprint Planning.
 
 #### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px" width="30px"> Languages & Frameworks
@@ -35,6 +37,7 @@ My user-centered approach to development ensures that all technical decisions ar
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digital-ocean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -74,3 +77,5 @@ My user-centered approach to development ensures that all technical decisions ar
   Thanks for visiting my profile! Have a fantastic day! :wink: <br/>
   &copy; 2024 Incrisz
 </div>
+
+--- 
