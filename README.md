@@ -16,7 +16,7 @@ My user-centered approach to development ensures that all technical decisions ar
 - **Programming Languages**: PHP, JavaScript, Dart.
 - **Infrastructure & Cloud**: AWS, Digital Ocean, Google Cloud Platform (GCP), Docker.
 - **Backend Development**: Laravel, Node.js (NestJS | ExpressJS).
-- **Mobile Development**: Flutter (Dart), React Native.
+- **Mobile Development**: Flutter (Dart).
 - **Data Storage & Processing**: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
 - **Architectural Knowledge**: Microservices, Event-Driven Architecture, MVC.
 - **CI/CD & Automation Tools**: GitHub Actions, GitLab CI, Jenkins, Ansible, Terraform.
@@ -75,7 +75,7 @@ My user-centered approach to development ensures that all technical decisions ar
 
 <div align="center">
   Thanks for visiting my profile! Have a fantastic day! :wink: <br/>
-  &copy; 2024 Incrisz
+  &copy; 2025 Incrisz
 </div>
 
 --- 
