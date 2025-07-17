@@ -1,11 +1,8 @@
 ---
 
-# Godwin Incrisz 👋  
+# The Seeker 👋  
 ### Senior DevOps Engineer
 ---
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/incrisz?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/incrisz?style=social"> &nbsp;&nbsp; ![counter](https://en45p9rvivielwz.m.pipedream.net)  
-![](https://visitor-badge.laobi.icu/badge?page_id=Incrisz.Incrisz)  
-[![Github](https://img.shields.io/github/followers/incrisz?label=Follow&style=social)](https://github.com/Incrisz)
 
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
 I am an innovative DevOps Engineer passionate about building impactful and scalable software infrastructures. With over half a decade of professional experience, I have a strong background in backend development and have successfully delivered projects that enhance user experience and add business value.
@@ -52,30 +49,16 @@ My user-centered approach to development ensures that all technical decisions ar
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="30px" width="30px"> Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=incrisz&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=incrisz&theme=react-dark"/>
-</div>
+
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> Let's Connect!
 
 <p align="center">
-  <a href="mailto:godwinincrisz@gmail.com" >
-    <img align="center" alt="Incrisz | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/godwin-incrisz-506473214/" target="_blank">
-    <img align="center" alt="Incrisz | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://github.com/Incrisz" target="_blank">
-    <img align="center" alt="Incrisz | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
 </p>
 
 <div align="center">
   Thanks for visiting my profile! Have a fantastic day! :wink: <br/>
-  &copy; 2025 Incrisz
+  &copy; 2025 Seeker
 </div>
 
 --- 
